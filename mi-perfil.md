@@ -24,10 +24,10 @@ Hoy aprenderé a usar `git commit` por primera vez.
 
 ## Mi progreso en el curso
 
-- [ ] Cree mi primer repositorio
-- [ ] Hice mi primer commit
-- [ ] Cree una rama nueva
-- [ ] Hice un merge
-- [ ] Subí mi repo a GitHub
+- [X] Cree mi primer repositorio
+- [X] Hice mi primer commit
+- [X] Cree una rama nueva
+- [X] Hice un merge
+- [X] Subí mi repo a GitHub
 - [ ] Mandé un Pull Request
 - [ ] Resolví un conflicto  
