@@ -3,7 +3,7 @@
 ## Sobre mí
 - Carrera: Licenciatura en Ingeniería de Software
 - Semestre: Primer Semestre
-- Una cosa que espero aprender hoy:
+- Una cosa que espero aprender hoy: Espero aprender a manejar GitHub básico
 
 ## Mi frase favorita
 > Escribe aquí una frase que te guste.
