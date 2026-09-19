@@ -7,7 +7,7 @@
 
 ## Mi frase favorita
 > Escribe aquí una frase que te guste. 
-El viaje de mil millas comienza con un solo paso.
+El viaje de mil millas comienza con un solo paso
 
 
 ## Herramientas del curso
