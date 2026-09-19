@@ -2,7 +2,7 @@
 
 ## Sobre mí
 - Carrera: Licenciatura en Ingeniería de Software
-- Semestre:
+- Semestre: Primer Semestre
 - Una cosa que espero aprender hoy:
 
 ## Mi frase favorita
