@@ -6,7 +6,8 @@
 - Una cosa que espero aprender hoy: Espero aprender a manejar GitHub básico
 
 ## Mi frase favorita
-> Escribe aquí una frase que te guste.
+> Escribe aquí una frase que te guste. 
+El viaje de mil millas comienza con un solo paso
 
 
 ## Herramientas del curso
