@@ -30,7 +30,7 @@ Hoy aprenderé a usar `git commit` por primera vez.
 - [X] Hice un merge
 - [ ] Subí mi repo a GitHub
 - [ ] Mandé un Pull Request
-- [ ] Resolví un conflicto  
+- [ ] Resolví un conflicto 
 
 
 ## Recursos que quiero explorar
